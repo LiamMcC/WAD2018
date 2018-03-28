@@ -1,0 +1,9 @@
+[
+        {
+            "name": "Polar M400",
+            "id": 1,
+            "activity": "Running",
+            "price" : 199,
+            "image": "polarm400.png"
+        }
+]
