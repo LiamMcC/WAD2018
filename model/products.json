@@ -1,9 +1,24 @@
 [
-        {
-            "name": "Polar M400",
-            "id": 1,
-            "activity": "Running",
-            "price" : 199,
-            "image": "polarm400.png"
-        }
+    {
+        "name": "Polar M400",
+        "id": 1,
+        "activity": "Running",
+        "price": 199,
+        "image": "polarm400.png"
+    },
+    {
+        "name": "Garmin Edge800",
+        "id": 2,
+        "activity": "Cycling",
+        "price": 359,
+        "image": "garminedge.png"
+    },
+    {
+        "name": "Polar Loop",
+        "id": 3,
+        "activity": "Swimming",
+        "price": 179,
+        "image": "polarloop.png"
+    }
+
 ]
